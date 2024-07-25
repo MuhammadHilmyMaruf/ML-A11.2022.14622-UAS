@@ -1,2 +1,6 @@
-# ML-A11.2022.14622-UAS
-Repositori ini berisi tentang project Machine Learning / Pembelajaran Mesin
+# Machine Learning Projects
+This repository contains mini projects in machine learning with jupyter notebook files.
+Go to the projects folder and see the readme for detailed instructions about the projects.
+
+# Complete video tutorial for the projects:-
+http://bit.ly/mlprojectsplaylist
